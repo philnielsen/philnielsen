@@ -1,3 +1,3 @@
 # Hi There!
 
-I'm Phil! Enjoy some code or somthing I guess!
+I'm Phil! Enjoy some code or something I guess!
